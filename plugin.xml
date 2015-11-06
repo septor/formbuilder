@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="Form Builder" lan="" version="1.0" date="2015-11-06" compatibility="2.0" installRequired="true" >
+	<author name="Patrick Weaver" url="http://trickmod.com" />
+	<summary lan="">A form builder for any number of uses.</summary>
+	<description lan="">Build forms that inquire your users for their input, of any type (survey, application, feedback, etc), and have the results sent to an email, a forum thread, or logged in the database for later viewing.</description>
+	<keywords>
+		<word>form</word>
+		<word>builder</word>
+	</keywords>
+	<category>content</category>
+	<copyright>2015</copyright>
+	<adminLinks>
+		<link url="admin_config.php" description="" icon="" iconSmall="" primary="true" >LAN_CONFIGURE</link>
+	</adminLinks>
+	
+</e107Plugin>
