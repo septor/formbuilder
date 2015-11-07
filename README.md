@@ -4,6 +4,10 @@
 
 A form builder for any number of uses.
 
+**Be warned! The first step to making this plugin happen is finding a decent, easy to use, drag and drop form builder. I've found two that have promise I just need to test them externally to make sure they work the way I need before I add it into the e107 code.**
+
+**Additionally, the database structure and other things may change with the use of the drag and drop builder. I probably prematurely commited the previous files! Oops!**
+
 More information will be released as the plugin matures. Stay tuned!
 
 ## Credits
